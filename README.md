@@ -1,0 +1,2 @@
+# hugo-site
+try hugo
